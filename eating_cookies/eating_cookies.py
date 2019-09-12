@@ -59,7 +59,7 @@ import sys
 # 2,3
 
 
-[1, 1, 2, 4, 7, 13, 24, 44]
+[1, 1, 2, 4, 7, 13, 24, 44, ]
 
 
 def eating_cookies(n, cache=None):
